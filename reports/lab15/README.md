@@ -13,6 +13,7 @@ http://cppcheck.sourceforge.net```
 - [X] 4. Используя OCLint провести анализ проекта на C++
 - [X] 5. Используя Valgrind провести анализ проекта на C++
 - [X] 6. Составить отчет и отправить ссылку личным сообщением в Slack 
+```
 
 ## Links
 - [2](https://github.com/17viu18m/lab15/blob/master/cpplint_check)
